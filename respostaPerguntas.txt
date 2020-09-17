@@ -1,0 +1,9 @@
+Resposta 1: Os 5 principios SOLID são: 
+S - Single Responsibility Principle
+O - Open-Closed Principle
+L - Liskov Susbstitution Principle
+I - Interface Segregation Principle
+D - Dependency Inversion Principle
+As vantagens são por exemplo: Melhor reaŕoveitamento de código, códigos mais legiveis e entendiveis e por exetensão melhores de ser feita manutenção, menos bugs e por tanto, torna-se a pedra angular sobre a qual bons Design Patterns são criados.
+
+2 - c) eu apliquei o principio Single Responsibility quando deleguei a somente a conta fazer um saque efetivo e o cartão de crédito ter a responsibilidade de incrementar a fatura o principio de Open-Close ao ter a liberdade de adicionar mais um tipo de cartão aos cartões sem mudar nada do que já está construído.
